@@ -1,5 +1,23 @@
 # Changelog - 人間中心AI時代の組織憲章
 
+## [1.2.0] - 2024-10-26
+
+### Added
+- **AI査読フレームワーク**（docs/AI-REVIEW-FRAMEWORK.md）
+  - 7分野の専門家による継続的評価システム
+  - 法学・言語学・歴史学・産業工学・経済学・数学・教育学の観点
+  - AI向けの詳細な評価指標と実行指示
+  - 総合評価レポート生成手順
+  - 継続的改善サイクルの定義
+
+### Changed
+- 憲章の評価プロセスにAIによる専門家模倣査読を組み込み
+
+### Fixed
+- なし
+
+---
+
 ## [1.1.0] - 2024-10-26
 
 ### Added
@@ -7,6 +25,8 @@
 - README.md の作成
 - CHANGELOG.md の作成
 - ディレクトリ構造（docs/, templates/）の作成
+- GitHub Pages設定（_config.yml, index.md）
+- AI利用審査テンプレート（templates/ai-usage-review.md）
 
 ### Changed
 - なし
