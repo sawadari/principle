@@ -1,0 +1,21 @@
+# GitHub Pages Configuration
+title: 人間中心AI時代の組織憲章
+description: AIと人間の協働による社会的価値創出を目指す倫理的指針
+theme: jekyll-theme-minimal
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Navigation
+navigation:
+  - title: ホーム
+    url: /
+  - title: 憲章本文
+    url: /CHARTER
+  - title: テンプレート
+    url: /templates/
+  - title: GitHub
+    url: https://github.com/sawadari/principle
